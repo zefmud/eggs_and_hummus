@@ -7,3 +7,8 @@ In two kinds of styles
 * like this
 * like this
 * and like this
+
+###Now it is time to try numbered list
+1. for course progress
+2. for self-development
+3. to obtain professional skills
