@@ -4,6 +4,6 @@ eggs_and_hummus
 In two kinds of styles
 ------------------------------
 ###And also trying unnumbered lists
-*like this
-*like this
-*and like this
+* like this
+* like this
+* and like this
